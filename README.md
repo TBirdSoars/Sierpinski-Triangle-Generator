@@ -1,4 +1,4 @@
-#Sierpiński-Triangle-Generator
+# Sierpiński-Triangle-Generator
 
 Uses a chaos game to generate a Sierpiński triangle. The method is as follows:
 
